@@ -5,7 +5,7 @@
 #include "framework.h"
 
 // TODO: This is an example of a library function
-void fnut5gl1lib()
+int returnOne()
 {
-
+	return 1;
 }
